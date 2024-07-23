@@ -1,1 +1,21 @@
+HTML:---
+hyper text markup language stands for hyper text markup language for creating webpages.
+
+TYPES OF HTML
+tranginal
+strict
+frameset
+HTML TAGS:--
+html tags m:-- <h1> s <h6> title jo <h1>
+<h2>, <h3>, <h4>, <h5>,<h6>
+
+BASIC HTML TAGS:---
+
+ TAGS                                        DESCRIPTION
+                                             
+<HTML>                                   DEFINES  an html document 
+
+<HEAD>                                   contains information
+<TITLE>                                  defines a title document 
+<BODY>                                   defines documents BODY
 
