@@ -6,3 +6,28 @@ INTERNAL/internal
 EXTERNAL
 EMBEDED
 
+
+FEATURES OF CSS:--
+styling 
+cashcading 
+slecters
+BOX MODEL 
+FLEX BOX OR GRID
+BASIC PROPERTIES
+TRANSTION OR ANIMATION 
+MEDIA QURIES 
+
+MEASURING UNITS:---
+px:   pixles
+pc:   picas
+pt:   points 
+cm:    centimeters
+mm:    milliments
+in:   inches.
+
+RELATIVES:-----
+% ---  PRECENTAGES 
+Vh:--- viewport height 
+vw: viewport width
+vmax: ---- maximum of the viewport height or width.
+
