@@ -31,3 +31,32 @@ Vh:--- viewport height
 vw: viewport width
 vmax: ---- maximum of the viewport height or width.
 
+CSS BASIC PROPERTIES:----
+PADDING:---
+css padding html element k inner part ko padding kaha jata h ||
+top 
+bottom
+right 
+left
+margin:-----
+html element k baher k space ko margin kaha jata h||
+left
+right
+bottom
+top
+BORDER:---
+content or padding k charo taref k part ko border kaha jata h||
+left
+right
+top
+bottom
+BORDER-RADIOUS:---
+boder k charo side line to line show hota h use border radious kaha jata h||
+
+
+FONT-SIZE:-----
+
+
+
+
+FLEX:-----------
